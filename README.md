@@ -1,3 +1,3 @@
-This is the description of my repo /n
-Modification in main branch /n
+This is the description of my repo <br />
+Modification in main branch <br />
 Modification in feature-greeting branch
